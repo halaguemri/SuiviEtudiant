@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780338415910",
+    "project_id": "suivietudiants-6d56c",
+    "storage_bucket": "suivietudiants-6d56c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780338415910:android:0be9155238be4f20f3d9e7",
+        "android_client_info": {
+          "package_name": "com.example.suivietudiants"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Km-9xy9-Ks-ICsEiqCbEFk-WtkTrKqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
